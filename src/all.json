@@ -1,0 +1,30 @@
+{
+  "depart": [
+    { "id": 0, "department": "All Departments" },
+    { "id": 1, "department": "Arts & Crafts" },
+    { "id": 2, "department": "Automotive" },
+    { "id": 3, "department": "Baby" },
+    { "id": 4, "department": "Beauty & Personal Care" },
+    { "id": 5, "department": "Boy's Fashion" },
+    { "id": 6, "department": "Computers" },
+    { "id": 7, "department": "Deals" },
+    { "id": 8, "department": "Digital Music" },
+    { "id": 9, "department": "Electronics" },
+    { "id": 10, "department": "Girl's Fashion" },
+    { "id": 11, "department": "Health & Household" },
+    { "id": 12, "department": "Home & Kitchen" },
+    { "id": 13, "department": "Industrial & Scientific" },
+    { "id": 14, "department": "Kindle Store" },
+    { "id": 15, "department": "Luggage" },
+    { "id": 16, "department": "Mens Fashion" },
+    { "id": 17, "department": "Movies & TV" },
+    { "id": 18, "department": "Music, CDs & Vinyl" }
+  ],
+
+  "language": [
+    { "id": 0, "lan": "English - EN" },
+    { "id": 0, "lan": "espanol - ES" },
+    { "id": 0, "lan": "Deutsch - DE" },
+    { "id": 0, "lan": "portugues - PT" }
+  ]
+}
