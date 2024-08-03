@@ -22,9 +22,15 @@
   ],
 
   "language": [
-    { "id": 0, "lan": "English - EN" },
-    { "id": 0, "lan": "espanol - ES" },
-    { "id": 0, "lan": "Deutsch - DE" },
-    { "id": 0, "lan": "portugues - PT" }
+    { "id": 0, "lan": "espanol - ES", "short": "ES" },
+    { "id": 1, "lan": "Deutsch - DE", "short": "DE" },
+    { "id": 2, "lan": "portugues - PT", "short": "PT" },
+    { "id": 3, "lan": "العربية - AR", "short": "AR" },
+    { "id": 4, "lan": "Deutsch - DE", "short": "DE" },
+    { "id": 5, "lan": "עברית - HE", "short": "HE" },
+    { "id": 6, "lan": "한국어 - KO", "short": "KO" },
+    { "id": 7, "lan": "português - PT", "short": "PT" },
+    { "id": 8, "lan": "中文 (简体) - ZH", "short": "ZH" },
+    { "id": 9, "lan": "中文 (繁體) - ZH", "short": "ZH" }
   ]
 }
